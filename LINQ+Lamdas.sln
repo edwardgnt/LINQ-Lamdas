@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ+Lamdas", "LINQ+Lamdas\LINQ+Lamdas.csproj", "{EE8D1261-A409-4550-AE87-DEBCE0954E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8D1261-A409-4550-AE87-DEBCE0954E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8D1261-A409-4550-AE87-DEBCE0954E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8D1261-A409-4550-AE87-DEBCE0954E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8D1261-A409-4550-AE87-DEBCE0954E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF94740A-B987-470A-9D27-EC74F405BCCE}
+	EndGlobalSection
+EndGlobal
